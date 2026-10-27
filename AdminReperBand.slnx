@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AdminReperBand.Console/AdminReperBand.Console.csproj" />
+    <Project Path="src/AdminReperBand.Domain/AdminReperBand.Domain.csproj" />
+  </Folder>
+</Solution>
